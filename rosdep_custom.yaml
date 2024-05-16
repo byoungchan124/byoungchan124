@@ -1,0 +1,2 @@
+paho-mqtt:
+  ubuntu: [python3-paho-mqtt]
